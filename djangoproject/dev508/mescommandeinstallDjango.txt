@@ -1,0 +1,16 @@
+ 1025  source dev508_env/Scripts/activate
+ 1026  \nsource Django_Python/Scripts/activate\n\n
+ 1027  dev508_env/Scripts/activate
+ 1028  source dev508_env/bin/activate
+ 1029  source dev508_env/bin/desactivate
+ 1030  deactivate
+ 1031  source dev508_env/bin/activate
+ 1032  pip3 install django --upgrade
+ 1033  /Users/debruynemaxime/Desktop/Django_Python/djangoproject/dev508/dev508_env/bin/python3 -m pip install --upgrade pip
+ 1034  pip3 --version
+ 1035  pip3 install django --upgrade
+ 1036  py3 -m django
+ 1037  py -m django --version
+ 1038  py3 -m django --version
+ 1039  python3 -m django --version
+ 1040  pip --version

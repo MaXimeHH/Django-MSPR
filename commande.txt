@@ -1,0 +1,16 @@
+  985  python3 manage.py runserver
+  986  python3 manage.py runserver
+  987  python3 manage.py createsuperuser
+  988  python3 manage.py runserver
+  989  python3 manage.py showmigrations
+  990  python3 manage.py makemigrations
+  991  python3 manage.py migrate
+  992  python3 manage.py runserver
+  993  python3 manage.py showmigrations
+  994  python3 manage.py makemigrations
+  995  python3 manage.py migrate
+  996  python3 manage.py showmigrations
+  997  python3 manage.py makemigrations
+  998  python3 manage.py migrate
+  999  python3 manage.py runserver
+ 1000  python3 manage.py runserver
